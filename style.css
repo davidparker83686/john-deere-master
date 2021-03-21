@@ -1,0 +1,119 @@
+.lady{
+  background-image: url(./Pictures/march-hero.png);
+  background-size: cover;
+  background-position: center;
+  min-height: 35vh;
+  color: #FDDA01;
+}
+
+@media (max-width:767px) {
+  .hidden{
+    display: none;
+    }
+}
+
+@media (max-width:767px){
+  .footer-title{
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+  }
+
+
+  .footer-title:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)
+  }
+}
+
+
+.tractor1{
+  background-image: url('./Pictures/see-spray-left.png') ;
+  background-size:cover;
+  background-position: center;
+  height: 35vh;
+}
+.tractor2{
+  background-image: url('./Pictures/tractor1.png') ;
+  background-size:cover;
+  background-position: center;
+  height: 35vh;
+}
+.tractor3{
+  background-image: url('./Pictures/ag-march.png') ;
+  background-size:cover;
+  background-position: center;
+  height: 35vh;
+}
+.tractor4{
+  background-image: url('./Pictures/buyonline.png') ;
+  background-size:cover;
+  background-position: center;
+  height: 35vh;
+}
+
+.tractor5{
+  background-image: url('./Pictures/tiering-bucket.png') ;
+  background-size:cover;
+  background-position: center;
+  height: 35vh;
+}
+.tractor6{
+  background-image: url('./Pictures/RYD_USHomePageTeaser.png') ;
+  background-size:cover;
+  background-position: center;
+  height: 35vh;
+}
+.tractor7{
+  background-image: url('./Pictures/deere-season-march.png') ;
+  background-size:cover;
+  background-position: center;
+  height: 35vh;
+}
+.tractor8{
+  background-image: url('./Pictures/store-parts-march.png') ;
+  background-size:cover;
+  background-position: center;
+  height: 35vh;
+}
+
+.ltgrey{
+  background-color: #F4F3F3;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  min-width: 22rem;
+  min-height: 3rem;
+  padding: 2rem;
+  margin-right: 0;
+}
+.ltgreytitle{
+  padding-top: 15px;
+  font-size: 20px;
+}
+.ltgreycontent{
+  font-size:12px;
+}
+
+.infobg{
+background-color: rgba(48, 47, 47, 0.664);
+height: 35vh;
+}
+.end{
+  justify-content: flex-end;
+}
+.bl{
+  list-style-type: none;
+}
+.foot{
+  background-color:#e5e6e6;
+  font: hsl(0, 0%, 20%)
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-weight: 400;
+    margin: 16px 0 0;
+    line-height: 1.2;
+}
+
+p{
+  margin: 0 !important;
+  margin-top: 1em;
+}
